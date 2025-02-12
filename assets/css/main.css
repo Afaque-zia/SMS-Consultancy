@@ -2285,7 +2285,7 @@ Location:
   overflow: hidden;
   text-align: center;
   background: var(--ztc-bg-bg-1);
-  padding: 20px 20px 32px 20px;
+  padding: 55px 20px 32px 20px !important;
 }
 
 .service1-section-area .service-single-slider .service-boxarea:hover .img1 img {
@@ -2349,6 +2349,7 @@ Location:
   object-fit: cover;
   border-radius: 8px;
   transition: all 0.4s;
+  display: none !important;
 }
 
 .service1-section-area .service-single-slider .service-boxarea .img1 .arrow a {
